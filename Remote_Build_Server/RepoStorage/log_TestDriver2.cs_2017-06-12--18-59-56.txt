@@ -1,0 +1,3 @@
+TestedLib4.cs(20,44): error CS1002: ; expected
+TestedLib5.cs(19,13): error CS0103: The name 'Consosle' does not exist in the current context
+

@@ -1,0 +1,17 @@
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\bhopa\Desktop\demos\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb

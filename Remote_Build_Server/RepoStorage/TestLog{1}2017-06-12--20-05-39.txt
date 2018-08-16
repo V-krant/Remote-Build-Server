@@ -1,0 +1,6 @@
+06-12-2017 20:05:39
+Test1 : passed
+06-12-2017 20:05:39
+Test2 : failed
+06-12-2017 20:05:39
+Test3 : failed with message "Exception has been thrown by the target of an invocation."

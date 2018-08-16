@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testRequest>
+  <author>Client</author>
+  <dateTime>05-12-2017 04:12:21</dateTime>
+  <test>
+    <testDriver>TestDriver2.cs</testDriver>
+    <tested>TestedLib2.cs</tested>
+  </test>
+</testRequest>

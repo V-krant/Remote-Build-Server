@@ -1,0 +1,23 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Wed Dec  6 20:27:09 2017
+     Path: "C:\Users\bhopa\Desktop\SMA_Project\SMA_Project4\SMA_Project4"
+     Args: SMA_Project4.csproj, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       2
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     7 dirs
+   processed     1 files
